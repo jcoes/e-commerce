@@ -1,0 +1,10 @@
+html,body,header,main,div,h1,h2,p,ul,li,button,figure,img{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Inter', sans-serif; 
+}
+
+li {
+    list-style-type: none;
+}
